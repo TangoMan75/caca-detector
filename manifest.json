@@ -1,0 +1,26 @@
+{
+  "name": "Caca detector",
+  "description": "Caca Detector is a Chrome extension that displays a notification when it detects the word \"caca\" on a web page.",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "icons": {
+    "128": "/images/pile_of_poo.png"
+  },
+    "action": {
+        "default_icon": {
+            "128": "/images/pile_of_poo.png"
+        }
+    },
+  "permissions": [
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
