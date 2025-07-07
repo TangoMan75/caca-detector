@@ -1,6 +1,6 @@
 {
   "name": "caca-detector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Caca Detector is a Chrome extension that displays a notification when it detects the word \"caca\" on a web page.",
   "main": "content.js",
   "type": "module",

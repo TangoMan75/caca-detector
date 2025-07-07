@@ -40,9 +40,9 @@ This Chrome extension scans webpages for those accidental gems and gently notifi
 📦 Installation
 ---------------
 
-1. Go to Chrome [Extensions](chrome://extensions) panel.
-2. Enable `Developer mode`
-3. Click `Load unpacked` button and select **Caca Detector** extension folder.
+1. Go to the [Caca Detector](https://chromewebstore.google.com/detail/caca-detector/bdignjhbkmhmekpkdgdhgjgegghpbcde) page on the Chrome Web Store.
+2. Click on the `Add to Chrome` button.
+3. Click on the `Add extension` button on the confirmation popup.
 
 🛠️ Usage
 --------
@@ -80,6 +80,14 @@ yarn install
 ```bash
 yarn test
 ```
+
+✅ How to test ?
+----------------
+
+1. Visit https://github.com/TangoMan75/caca-detector
+2. A _"pile of poo"_ emoji should appear on the page.
+3. The _"pile of poo"_ icon in the toolbar should display a red spot.
+4. Click on the _"pile of poo"_ emoji to make it disapear.
 
 🤝 Contributing
 ---------------

@@ -14,3 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.1.0](https://github.com/TangoMan75/caca-detector/releases/tag/0.1.0)
 
+## [0.1.1](https://github.com/TangoMan75/caca-detector/releases/tag/0.1.1)
+- Removed: Unnecessary _scripting_ permission.
+- Changed: Updated README_with Chrome Web Store caca detector extension page and test instructions.
+
