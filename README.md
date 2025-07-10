@@ -92,7 +92,7 @@ yarn test
 🤝 Contributing
 ---------------
 
-Thank you for your interrest in contributing to **Caca Detector**.
+Thank you for your interest in contributing to **Caca Detector**.
 
 Please review the [code of conduct](./CODE_OF_CONDUCT.md) and [contribution guidelines](./CONTRIBUTING.md) before starting to work on any features.
 
